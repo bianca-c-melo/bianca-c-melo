@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bianca-melo&label=Profile%20views&color=0e75b6&style=plastic" alt="bianca-melo" /> </p>
 
-- 🔭 I’m currently working as an intern on [cbds-bradesco](@cbds-bradesco)
+- 🔭 I’m currently working as an intern at IBM(@IBM)
 
 - 🌱 I’m currently learning **Data Science, backend and frontend.**
 
