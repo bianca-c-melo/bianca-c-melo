@@ -6,20 +6,12 @@
 
 I'm Data Science student and Intern at [IBM](@IBM) 🐝
   
-<h1>
-  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi, Im Si.", "I am Creative.", "I Love Design.", "I Love to Develop." ]'>
-    <span class="wrap"></span>
-  </a>
-</h1>
-
-  </strong>
-  </p>
+</strong>
+</p>
 </p>
 <img src="https://cdn.dribbble.com/users/879147/screenshots/16493341/media/76ebc0a9f90c7a5db44f16e51bf91353.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
 
 
-<br/>
-<br/>
 
 <h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
 <br/>
@@ -53,9 +45,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 [![logo postman](https://img.shields.io/badge/Postman-f16634?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 
-<br/>
-<br/>
-<br/>
+
 <h2 align="center"><strong> 📋 Stats </strong></h2>
 <br/>
 <div width="100%" align="center">
@@ -70,7 +60,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 <div width="100%" align="center">
  
 </div>
-<br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
 
 </div>
