@@ -1,24 +1,90 @@
-<h1 align="center">Hi 👋, I'm Bianca Melo</h1>
-<h3 align="center">I am exploring new ways to help to resolve human and business problems, and I hope to enjoy that ! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bianca-melo&label=Profile%20views&color=0e75b6&style=plastic" alt="bianca-melo" /> </p>
+<p align="center">
+  <h1 align="center">Bianca Melo 🧚‍♀️ </h1>
+  <p>
+  <strong><h1 style="color: #2ecc71">Hello, World! </h1>
 
-- 🔭 I’m currently working as an intern at [IBM](@IBM)
+I'm Data Science student and Intern at [IBM](@IBM) 🐝
+  
+<h1>
+  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi, Im Si.", "I am Creative.", "I Love Design.", "I Love to Develop." ]'>
+    <span class="wrap"></span>
+  </a>
+</h1>
 
-- 🌱 I’m currently learning **Data Science, backend and frontend.**
-
-- 📫 How to reach me **biaahcamargo.bc@gmail.com**
-
-- ⚡ Fun fact **I really love music.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bianca-c-melo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bianca-c-melo" height="30" width="40" /></a>
+  </strong>
+  </p>
 </p>
+<img src="https://cdn.dribbble.com/users/879147/screenshots/16493341/media/76ebc0a9f90c7a5db44f16e51bf91353.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bianca-melo&show_icons=true&theme=tokyonight&title_color=03feb4&text_color=8de2d1&locale=en&layout=compact&count_private=true" alt="bianca-melo" /></p>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bianca-melo&show_icons=true&theme=tokyonight&title_color=0afdb4&text_color=8de2d1&locale=en&count_private=true" alt="bianca-melo" /></p>
+<h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
+<br/>
+
+[![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
+[![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![logo html5](https://img.shields.io/badge/HTML-ed5700?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![logo css3](https://img.shields.io/badge/CSS-007ACC?&style=for-the-badge&logo=css3&logoColor=white)](#)
+
+[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
+[![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![logo nodejs](https://img.shields.io/badge/NODE.JS-79b204?style=for-the-badge&logo=node.js&logoColor=white)](#)
+
+
+
+[![logo numpy](https://img.shields.io/badge/Numpy-4ba6c9?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![logo pandas](https://img.shields.io/badge/Pandas-11074f?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![logo scikitlearn](https://img.shields.io/badge/scikit--learn-eb9036?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![logo plotly](https://img.shields.io/badge/plotly-3c4c6f?style=for-the-badge&logo=plotly&logoColor=white)](#)
+[![logo pytorch](https://img.shields.io/badge/pytorch-e24829?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+
+
+
+[![logo watson](https://img.shields.io/badge/Watson_Studio-012b66?style=for-the-badge&logo=ibm&logoColor=white)](#)
+
+
+
+[![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![logo mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![logo postman](https://img.shields.io/badge/Postman-f16634?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+
+<br/>
+<br/>
+<br/>
+<h2 align="center"><strong> 📋 Stats </strong></h2>
+<br/>
+<div width="100%" align="center">
+
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=radical)](#)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=radical)
+
+</div>
+
+<div width="100%" align="center">
+ 
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+
+</div>
+
+<h2 align="center"><strong> 🧍‍♀️ Personal Info </strong></h2>
+<br/>
+
+<p align="left">
+  <br/>
+  If you want to know more about me, please visit my LinkedIn profile 
+  <a href="https://br.linkedin.com/in/bianca-c-melo" alt="Gmail">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" align="center"/></a>
+</p>  
+
+  <br/>
+</p>
+ 
