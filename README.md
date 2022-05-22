@@ -62,8 +62,8 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=radical)](#)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=tokyonight)
 
 </div>
 
