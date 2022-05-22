@@ -70,8 +70,8 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 
 <p align="center">
   <br/>
-  If you want to know more about me, please visit my LinkedIn profile 
-  <a href="https://br.linkedin.com/in/bianca-c-melo" alt="Gmail">
+  If you want to know more about me, please visit my LinkedIn profile:
+  <a href="https://br.linkedin.com/in/bianca-c-melo" alt="Gmail"> </br>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" align="center"/></a>
 </p>  
 
