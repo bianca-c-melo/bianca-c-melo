@@ -66,7 +66,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 </div>
 
 <h2 align="center"><strong> 🧍‍♀️ Personal Info </strong></h2>
-<br/>
+
 
 <p align="left">
   <br/>
