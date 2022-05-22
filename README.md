@@ -68,7 +68,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 <h2 align="center"><strong> 🧍‍♀️ Personal Info </strong></h2>
 
 
-<p align="left">
+<p align="center">
   <br/>
   If you want to know more about me, please visit my LinkedIn profile 
   <a href="https://br.linkedin.com/in/bianca-c-melo" alt="Gmail">
