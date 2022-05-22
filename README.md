@@ -32,9 +32,9 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![logo nodejs](https://img.shields.io/badge/NODE.JS-79b204?style=for-the-badge&logo=node.js&logoColor=white)](#)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
-
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 [![logo numpy](https://img.shields.io/badge/Numpy-4ba6c9?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![logo pandas](https://img.shields.io/badge/Pandas-11074f?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![logo scikitlearn](https://img.shields.io/badge/scikit--learn-eb9036?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
@@ -60,7 +60,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 <br/>
 <div width="100%" align="center">
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=radical)](#)
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=tokyonight)](#)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=tokyonight)
