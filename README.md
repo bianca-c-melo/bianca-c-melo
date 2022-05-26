@@ -31,12 +31,9 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 [![logo pandas](https://img.shields.io/badge/Pandas-11074f?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![logo scikitlearn](https://img.shields.io/badge/scikit--learn-eb9036?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![logo plotly](https://img.shields.io/badge/plotly-3c4c6f?style=for-the-badge&logo=plotly&logoColor=white)](#)
-[![logo pytorch](https://img.shields.io/badge/pytorch-e24829?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-
 
 
 [![logo watson](https://img.shields.io/badge/Watson_Studio-012b66?style=for-the-badge&logo=ibm&logoColor=white)](#)
-
 
 
 [![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
