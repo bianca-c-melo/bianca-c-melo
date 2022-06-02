@@ -13,7 +13,7 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 
 
 
-<h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
+<h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2> Entry Level 
 <br/>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
