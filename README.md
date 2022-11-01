@@ -4,7 +4,7 @@
   <p>
   <strong><h1 style="color: #2ecc71">Hello, World! </h1>
 
-I'm Data Science student and Intern at [IBM](@IBM) 🐝
+I'm Data Science student and Application Developer at [IBM](@IBM) 🐝
   
 </strong>
 </p>
@@ -24,7 +24,6 @@ I'm Data Science student and Intern at [IBM](@IBM) 🐝
 [![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![logo nodejs](https://img.shields.io/badge/NODE.JS-79b204?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 [![logo numpy](https://img.shields.io/badge/Numpy-4ba6c9?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![logo pandas](https://img.shields.io/badge/Pandas-11074f?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![logo scikitlearn](https://img.shields.io/badge/scikit--learn-eb9036?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
