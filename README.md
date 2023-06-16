@@ -13,7 +13,7 @@ I'm Data Science student and Application Developer at [IBM](@IBM) 🐝
 
 
 
-<h2 align="left"><strong> 👩🏻‍💻 Tech Skills | Entry Level </strong></h2> 
+<h2 align="left"><strong> 👩🏻‍💻 Tech Skills  </strong></h2> 
 <br/>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
