@@ -9,7 +9,6 @@ I'm Data Science student and Application Developer
 </strong>
 </p>
 </p>
-<img src="https://cdn.dribbble.com/users/879147/screenshots/16493341/media/76ebc0a9f90c7a5db44f16e51bf91353.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
 
 
 
