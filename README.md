@@ -4,7 +4,7 @@
   <p>
   <strong><h1 style="color: #2ecc71">Hello, World! </h1>
 
-I'm Data Science student and Application Developer at [IBM](@IBM) 🐝
+I'm Data Science student and Application Developer
   
 </strong>
 </p>
