@@ -14,9 +14,15 @@
 <br/>
 <div width="100%" align="center">
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=tokyonight)](#)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-c-melo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=transparent)](#)
+![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=transparent)
+![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bianca-c-melo&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bianca-c-melo&theme=transparent&utcOffset=-3)
+
+
+
+
 </div>
 
 <div width="100%" align="center">
