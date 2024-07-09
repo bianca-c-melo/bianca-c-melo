@@ -1,24 +1,21 @@
 
-<p align="center">
-  <h1 align="center">Bianca Melo 🧚‍♀️ </h1>
-  <p>
+<div align="center">
   <strong><h1 style="color: #2ecc71">Hello, World! </h1>
-  
-</strong>
-</p>
-</p>
 
+    
+![computer (2)](https://github.com/bianca-c-melo/bianca-c-melo/assets/81665351/8119f166-564b-4ec0-b732-8c0dc740ac20)
 
+  </div>
 
 <h2 align="center"><strong> 📋 Stats </strong></h2>
 <br/>
 <div width="100%" align="center">
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=transparent)](#)
-![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=transparent)
-![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bianca-c-melo&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bianca-c-melo&theme=transparent&utcOffset=-3)
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca-c-melo&theme=tokyonight)](#)
+![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bianca-c-melo&theme=tokyonight)
+![TopLang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bianca-c-melo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bianca-c-melo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bianca-c-melo&theme=tokyonight&utcOffset=-3)
 
 
 
